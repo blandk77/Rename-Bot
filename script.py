@@ -20,19 +20,19 @@ class script(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://telegram.me/TechifyBots'>Techify Bots</a>
-<b>🧑‍💻 Developer :</b> <a href='https://telegram.me/CallOwnerBot'>Rahul</a>
+<b>📢 Channel :</b> <a href='https://telegram.me/the_tgguy'>𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙪𝙮!!</a>
+<b>🧑‍💻 Developer :</b> <a href='https://telegram.me/TGguy_Ownerobot'>𝙸𝚝𝚜𝚖𝚎𝟷𝟸𝟹𝚒</a>
 
-<b>♻️ Bot Made By :</b> @TechifyBots"""
+<b>♻️ Bot Made By :</b> @The_TGguy"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>TechifyBots@UPI</code> 
+<b>🛍 UPI ID:</b> <code>7305347700</code> 
 
-<b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
+<b>use /upgrade to see premium plans</b> """
 
     ADMIN_TXT = """<b><u>🦋 ADMIN ALL COMMANDS HERE</u></b>
 
@@ -47,6 +47,6 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
     METADATA_TXT = """<b><u>🖼️  HOW TO SET CUSTOM METADATA</u></b>
 For Example :-
-<code>By @TechifyBots</code>
-💬 For Any Help Contact @TechifySupport
+<code>By @The_TGguy</code>
+💬 For Any Help Contact @Tg_Guy_Support
 """
