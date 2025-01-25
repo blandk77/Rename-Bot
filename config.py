@@ -5,7 +5,7 @@ import os
 # Required Variables Config
 API_ID = int(os.environ.get("API_ID", "26728872"))
 API_HASH = os.environ.get("API_HASH", "96985c2aaea6c75408528909b7e18879")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7825342391:AAHcA9HPcf2uEzKWlZwTHKxIksPwIRvPNX4")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7299345692:AAEoPK2UkI85plbum9CPHaupNpnHcyCtjLc")
 ADMIN = int(os.environ.get("ADMIN", "1705634892"))
 
 
@@ -24,4 +24,4 @@ DATABASE_NAME = os.environ.get("DATABASE_NAME", "TechifyBots")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ada3f739fed7efdbe7b08.jpg")
+START_PIC = os.environ.get("START_PIC", "https://graph.org/file/827887045dcfd1659731d-86b61cd032b45916fe.jpg")
